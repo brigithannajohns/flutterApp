@@ -1,0 +1,22 @@
+Clear: Indicates clear sky conditions, no significant clouds.
+Clouds: Denotes cloudy weather.
+Rain: Signifies rain precipitation.
+Drizzle: Light rain falling in very fine drops.
+Thunderstorm: Indicates a thunderstorm with lightning, thunder, and possibly heavy rain.
+Snow: Denotes snow precipitation.
+Mist: Indicates misty or foggy conditions with reduced visibility.
+Fog: Denotes thick fog, significantly reducing visibility.
+Smoke: Signifies smoke or haze in the air.
+Haze: Indicates a slight obscurity caused by fine dust or pollution in the air.
+Dust: Signifies dust or sand particles in the air.
+Ash: Denotes ash particles in the air, usually from volcanic activity.
+Squall: Indicates a sudden increase in wind speed, often associated with thunderstorms or heavy rainfall.
+Tornado: Signifies a tornado or other violent windstorm.
+
+
+
+ependencies {
+        classpath "com.android.tools.build:gradle:4.1.0"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        classpath "com.google.gms:google-services:4.4.0"
+    }
